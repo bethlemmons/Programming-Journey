@@ -7,8 +7,11 @@
         "id": "ef4b52475056cd9d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Python.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,5 +95,7 @@
     "collapsed": true
   },
   "active": "ef4b52475056cd9d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
