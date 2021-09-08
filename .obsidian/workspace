@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python.md",
-            "mode": "source"
+            "file": "Python Crash Course.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Python Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
   },
   "active": "ef4b52475056cd9d",
   "lastOpenFiles": [
-    "Python.md",
-    "Untitled.md"
+    "Untitled.md",
+    "Python.md"
   ]
 }
