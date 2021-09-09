@@ -15,4 +15,4 @@ If I had infinite skills, I would create a personal health information blockchai
 			c. rstrip() --> remove extra whitespace to the right
 			d. lstrip() --> remove extra whitespace to the left
 			e. strip() --> remove extra whitespace from both sides simultaneously
-5)
+5) Syntax Error --> An error in the Python program that isn't recognized as valid code. 
