@@ -16,3 +16,39 @@ If I had infinite skills, I would create a personal health information blockchai
 			d. lstrip() --> remove extra whitespace to the left
 			e. strip() --> remove extra whitespace from both sides simultaneously
 5) Syntax Error --> An error in the Python program that isn't recognized as valid code. 
+6) Float --> Any number with a decimal in it.
+7) Type Error --> Python can't recognize the kind of info you're using. 
+8) str() function --> Any variable wrapped in this function will present as a string. 
+9) The Zen of Python:
+								Beautiful is better than ugly.
+								Explicit is better than implicit.
+								Simple is better than complex.
+								Complex is better than complicated.
+								Flat is better than nested.
+								Sparse is better than dense.
+								Readability counts.
+								Special cases aren't special enough to break the rules.
+								Although practicality beats purity.
+								Errors should never pass silently.
+								Unless explicitly silenced.
+								In the face of ambiguity, refuse the temptation to guess.
+								There should be one-- and preferably only one --obvious way to do it.
+								Although that way may not be obvious at first unless you're Dutch.
+								Now is better than never.
+								Although never is often better than *right* now.
+								If the implementation is hard to explain, it's a bad idea.
+								If the implementation is easy to explain, it may be a good idea.
+								Namespaces are one honking great idea -- let's do more of those!
+	
+	
+
+### Chapter 3
+##### Notes
+
+1) List [] --> A list is an ordered collection of items/elements. 
+2) Index --> Refers to the location of an item/element within a list. 
+3) .append() --> A method that allows you to add additional items/elements to the end of the list.
+4) .insert() --> A method that allows you to insert additional items/elements within a specific location in the list index.   
+5) del statement (ex. del motorcycles[0]) --> A statement that allows you to remove a value from a specific location in the list index. 
+6) pop() method --> A method that allows you to remove a value/item from the end of a list while still being able to manipulate that item/value. 
+7) remove() method --> A method that allows you to remove an item/value if you know the name of the item/value but not it's specific location within the list index. You are able to manipulate this value/item once removed. 

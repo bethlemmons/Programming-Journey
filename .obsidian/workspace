@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4b52475056cd9d",
+        "id": "74fef5b4165efc92",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -94,7 +94,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef4b52475056cd9d",
+  "active": "74fef5b4165efc92",
   "lastOpenFiles": [
     "Python Crash Course.md",
     "Untitled.md",
