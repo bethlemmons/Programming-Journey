@@ -57,3 +57,7 @@ If I had infinite skills, I would create a personal health information blockchai
 10) sorted() function --> Temporarily sorts lists alphabetically. 
 11) reverse() method --> Permanently reverse alphabetically sorts lists. 
 12) len() method --> Determines the length of the list. 
+
+### Chapter 4
+##### Notes
+1) for loop --> A controlled flow statement that is used repeatedly to execute a group of statements as long as the the conditions are satisified. 
