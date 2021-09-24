@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Mastery Course.md",
+            "file": "Python Crash Course.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Mastery Course.md",
+                "file": "Python Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "74fef5b4165efc92",
   "lastOpenFiles": [
-    "Untitled.md",
     "Python Crash Course.md",
+    "Untitled.md",
     "Python.md"
   ]
 }
