@@ -23,3 +23,7 @@
 2.  [Command line structure](app://obsidian.md/Command%20line%20structure) commandName options inputs
 3.  echo $PATH --> shows the path taken to call the program
 4.  [Operand](app://obsidian.md/Operand) --> the input given to a command line.
+5.  Short form is always proceeded by a dash '-'. Long form names are always proceeded by a double dash '--'.
+6.  Linux command lines are case sensitive.
+7.  Command = CommandName -options(allow you to modify the command's behavior) inputs.
+8.  CommandName needs to be on the shell's search path.
