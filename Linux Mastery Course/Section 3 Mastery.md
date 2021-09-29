@@ -27,3 +27,11 @@
 6.  Linux command lines are case sensitive.
 7.  Command = CommandName -options(allow you to modify the command's behavior) inputs.
 8.  CommandName needs to be on the shell's search path.
+
+##### 3.9 
+1. The manual for Linux can be accessed using the [[man]] command. [man -k which].
+2. Type in the command 'man' + '-k' + 'which' (or whatever command you are looking for). 
+3. Once a list has been generated, the next form is 'man' + (the location number) + the title of the section. It should open the manual page with information about the command.
+4. In a man page, if it is in square brackets, it is considered optional. 
+5. Anything inside angle brackets <> is considered mandatory.
+6. Anything with a pipe | means OR. 

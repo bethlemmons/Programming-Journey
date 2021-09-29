@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Crash Course/Chapter 4.md",
+            "file": "Linux Mastery Course/Section 3 Mastery.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Crash Course/Chapter 4.md",
+                "file": "Linux Mastery Course/Section 3 Mastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "74fef5b4165efc92",
   "lastOpenFiles": [
-    "Python Crash Course/Chapter 4.md",
     "Linux Mastery Course/Section 3 Mastery.md",
+    "Python Crash Course/Chapter 4.md",
     "Python Crash Course/Chapter 3.md",
     "Python Crash Course/Chapter 2.md",
     "Python Crash Course/Chapter 1.md",
