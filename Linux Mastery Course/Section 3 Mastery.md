@@ -35,3 +35,8 @@
 4. In a man page, if it is in square brackets, it is considered optional. 
 5. Anything inside angle brackets <> is considered mandatory.
 6. Anything with a pipe | means OR. 
+
+##### 3.10
+1. The "ls" command will take you to a directory. "q" will exit the directory. 
+2. "h" is a  human readable. 
+3. Long form commands commonly have a dash between the words. 
