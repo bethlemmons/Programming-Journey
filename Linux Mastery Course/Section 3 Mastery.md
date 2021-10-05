@@ -40,3 +40,7 @@
 1. The "ls" command will take you to a directory. "q" will exit the directory. 
 2. "h" is a  human readable. 
 3. Long form commands commonly have a dash between the words. 
+
+##### 3.12
+1. Redirecting allows you to redirect the standard output of a command to something other than the terminal. 
+2. Redirecting will also clear a file before adding anything else to it. So if you have a file with information you want to keep, you cannot send something else to it. In order to keep the redirection from truncating the data in the file, you can use '>>' to keep it. 
