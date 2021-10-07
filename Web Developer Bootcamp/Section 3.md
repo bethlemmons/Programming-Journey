@@ -7,3 +7,5 @@
 5. For a quick autopopulation of a new file with basic html hit exclamation point + tab. (! + tab)
 6. For a quick save, hit ctrl + s. For a save as, hit ctrl + shift + s. 
 7. For Command Palette, hit ctrl + shift + p. 
+8. HTML anchor tags are written as <a></a>.  In order to anchor a link to this the syntax is: <a href=""></a>. 
+9. To add an image to your website, use <img> and source attribute. example: <img src="">
