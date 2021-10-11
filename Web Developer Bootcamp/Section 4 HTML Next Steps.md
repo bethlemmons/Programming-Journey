@@ -10,12 +10,18 @@
 9. HMTL Entities all start with an ampersand and end with a semicolon. They are used in place of difficult to type characters. The browser interprets them and redners the correct character instead. Look up the entitycode for the symbol you need. 
 10. Semantic markup --> Related to meaning. This is basically making sure that your code is easily readable.
  11. Elements to use besides divs:
-	--> <section>
-	--> <article>
-	--> <nav>
-	--> <main>
-	--> <header>
-	--> <footer>
-	--> <aside>
+	--> <section> --> Represents a standalone section of a page/website. 
+	--> <article> --> Self contained composition in a document. Independently usable or distributable. 
+	--> <nav> --> Anything on the page that provides navigation links. 
+	--> <main> --> The dominant content of a page. 
+	--> <header> --> Introductory content. Often navigational content as well. 
+	--> <footer> --> The bottom of the document. 
+	--> <aside> --> A portion of the document that is only indirectly related to the document. 
 	--> <summary> 
 	--> <details> 
+12. Shortcut for copying a line is: shift + alt + up/down arrow key. 
+13. Shortcut for overall html document layout: ! + tab. 
+14. Shortcut for nested items: main>section>h1 + tab. 
+15. Shortcut for non-nested items: h1 + h2 + h3 + tab. 
+16. Multiplication allows you to copy a bunch of elements at once: ul>li*4
+17. Shortcut for numbering: ul>li.item$*5
