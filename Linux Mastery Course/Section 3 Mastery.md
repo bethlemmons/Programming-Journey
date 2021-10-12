@@ -44,3 +44,7 @@
 ##### 3.12
 1. Redirecting allows you to redirect the standard output of a command to something other than the terminal. 
 2. Redirecting will also clear a file before adding anything else to it. So if you have a file with information you want to keep, you cannot send something else to it. In order to keep the redirection from truncating the data in the file, you can use '>>' to keep it. 
+
+##### 3.13
+1. In order to redirect a data stream without losing the previously documented streams, you need to use >>.
+2. In order to get Standard Output from a file, you need to use the "less than" sign (<) instead of the "greater than sign" used to put input into a file. 
