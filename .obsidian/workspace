@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "74fef5b4165efc92",
+        "id": "11e62e0f4a6ef69a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Developer Bootcamp/Section 5 Forms & Tables.md",
+            "file": "Web Developer Bootcamp/Section 5 HTML Forms and Tables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Developer Bootcamp/Section 5 Forms & Tables.md",
+                "file": "Web Developer Bootcamp/Section 5 HTML Forms and Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74fef5b4165efc92",
+  "active": "11e62e0f4a6ef69a",
   "lastOpenFiles": [
-    "Web Developer Bootcamp/Section 5 Forms & Tables.md",
-    "Web Developer Bootcamp/Untitled.md",
+    "Web Developer Bootcamp/Section 5 HTML Forms and Tables.md",
     "Web Developer Bootcamp/Section 4 HTML Next Steps.md",
     "Web Developer Bootcamp/Section 3 HTML Essentials.md",
+    "Web Developer Bootcamp/Untitled.md",
+    "Web Developer Bootcamp/Section 5 Forms & Tables.md",
     "Web Developer Bootcamp/Section 3.md",
     "Linux Mastery Course/Section 3 Mastery.md",
     "Python Crash Course/Chapter 5.md",
     "Python Crash Course/Untitled.md",
-    "Python Crash Course/Chapter 4.md",
-    "Python Crash Course/Chapter 3.md"
+    "Python Crash Course/Chapter 4.md"
   ]
 }
