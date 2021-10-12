@@ -32,7 +32,7 @@
 1. The manual for Linux can be accessed using the [[man]] command. [man -k which].
 2. Type in the command 'man' + '-k' + 'which' (or whatever command you are looking for). 
 3. Once a list has been generated, the next form is 'man' + (the location number) + the title of the section. It should open the manual page with information about the command.
-4. In a man page, if it is in square brackets, it is considered optional. 
+4. In a main page, if it is in square brackets, it is considered optional. 
 5. Anything inside angle brackets <> is considered mandatory.
 6. Anything with a pipe | means OR. 
 
@@ -48,3 +48,8 @@
 ##### 3.13
 1. In order to redirect a data stream without losing the previously documented streams, you need to use >>.
 2. In order to get Standard Output from a file, you need to use the "less than" sign (<) instead of the "greater than sign" used to put input into a file. 
+3. The [[tty command]] gives you the file name of the terminal connected to standard output. 
+4. Standard Input, Standard Output and Standard Error are Data Streams. 
+5. Using redirection you can control where those streams "flow".
+6. Standard Input = 0, Standard Output = 1, Standard Error = 2 
+7. 
