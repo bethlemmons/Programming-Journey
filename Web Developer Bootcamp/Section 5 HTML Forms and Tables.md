@@ -15,3 +15,4 @@ Common HTML Table Elements:
 4. <img> element --> Embeds an image
 5. <form> element --> Represents a form. It is more a shell or container than anything. It also dictates where the form data is submitted.
 	--> <input> The input element is extremely versatile and is used to create a variety of different form controls. It is used to create interactive controls for web-based forms. The TYPE attribute dramatically alters the input's behavior and appearance. 
+	--> <label> The label element represents a caption for an item in the user interface (usually a form)
