@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Mastery Course/Section 3 Mastery.md",
+            "file": "Python Crash Course/Chapter 5.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Mastery Course/Section 3 Mastery.md",
+                "file": "Python Crash Course/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "11e62e0f4a6ef69a",
   "lastOpenFiles": [
-    "Linux Mastery Course/Section 3 Mastery.md",
+    "Python Crash Course/Chapter 5.md",
     "Web Developer Bootcamp/Section 5 HTML Forms and Tables.md",
-    "Web Developer Bootcamp/Section 4 HTML Next Steps.md",
     "Web Developer Bootcamp/Section 3 HTML Essentials.md",
+    "Web Developer Bootcamp/Section 4 HTML Next Steps.md",
+    "Python Crash Course/Chapter 4.md",
+    "Linux Mastery Course/Section 3 Mastery.md",
     "Web Developer Bootcamp/Untitled.md",
     "Web Developer Bootcamp/Section 5 Forms & Tables.md",
     "Web Developer Bootcamp/Section 3.md",
-    "Python Crash Course/Chapter 5.md",
-    "Python Crash Course/Untitled.md",
-    "Python Crash Course/Chapter 4.md"
+    "Python Crash Course/Untitled.md"
   ]
 }
