@@ -14,7 +14,10 @@ Common HTML Table Elements:
 3. <h1></h1> element --> Main header on a page
 4. <img> element --> Embeds an image
 5. <form> element --> Represents a form. It is more a shell or container than anything. It also dictates where the form data is submitted.
-	--> <input> The input element is extremely versatile and is used to create a variety of different form controls. It is used to create interactive controls for web-based forms. The TYPE attribute dramatically alters the input's behavior and appearance. 
-	--> <label> The label element represents a caption for an item in the user interface (usually a form)
-	--> <button> The button element represents a clickable button used to submit forms. 
-	--><name> This attribute refers to the value of the input that tells the server what to look for. It is very important for labeling. 
+6. <input> The input element is extremely versatile and is used to create a variety of different form controls. It is used to create interactive controls for web-based forms. The TYPE attribute dramatically alters the input's behavior and appearance. 
+	--> <label> This input label element represents a caption for an item in the user interface (usually a form)
+	--> <button> This input button element represents a clickable button used to submit forms. 
+	--><name> This input attribute refers to the value of the input that tells the server what to look for. It is very important for labeling. 
+	--><checkbox> This input element type is rendered by default as boxes that are checked when activated. 
+	--><radio> This input element is used in collets of radio buttons describing a set of related options. Only one can be selected at a time. Must add value in order to properly identify the selected value. 
+	--><select> This element works with another element to create a drop-down menu. 
