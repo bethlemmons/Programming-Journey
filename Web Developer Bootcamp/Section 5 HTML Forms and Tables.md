@@ -17,3 +17,4 @@ Common HTML Table Elements:
 	--> <input> The input element is extremely versatile and is used to create a variety of different form controls. It is used to create interactive controls for web-based forms. The TYPE attribute dramatically alters the input's behavior and appearance. 
 	--> <label> The label element represents a caption for an item in the user interface (usually a form)
 	--> <button> The button element represents a clickable button used to submit forms. 
+	--><name> This attribute refers to the value of the input that tells the server what to look for. It is very important for labeling. 
