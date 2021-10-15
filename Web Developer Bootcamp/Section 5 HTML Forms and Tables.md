@@ -24,3 +24,4 @@ Common HTML Table Elements:
 	--><range> This element type allows the use to specify a numeric value which must be no less than a given value and no more than another given value. 
 7. <textarea> This element is not an input and represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text. For comments, reviews, feedback. 
 8. <required> This Boolean attribute indicates that the user must specify a value for the input before the owning form can be submitted. 
+9. <pattern> The pattern attribute specifies a regular expression the form control's value should match. It is what people use to control setting a password. 
