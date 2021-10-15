@@ -21,3 +21,5 @@ Common HTML Table Elements:
 	--><checkbox> This input element type is rendered by default as boxes that are checked when activated. 
 	--><radio> This input element is used in collets of radio buttons describing a set of related options. Only one can be selected at a time. Must add value in order to properly identify the selected value. 
 	--><select> This element works with another element to create a drop-down menu. 
+	--><range> This element type allows the use to specify a numeric value which must be no less than a given value and no more than another given value. 
+7. <textarea> This element is not an input and represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text. For comments, reviews, feedback. 
