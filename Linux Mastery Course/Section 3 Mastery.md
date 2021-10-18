@@ -52,4 +52,9 @@
 4. Standard Input, Standard Output and Standard Error are Data Streams. 
 5. Using redirection you can control where those streams "flow".
 6. Standard Input = 0, Standard Output = 1, Standard Error = 2 
-7. 
+
+##### 3.14
+1. Command Pipelines
+2. [[tee command]]
+3. [[xarg command]]
+4. Adding
