@@ -57,4 +57,4 @@
 1. Command Pipelines
 2. [[tee command]]
 3. [[xarg command]]
-4. Adding
+4. Adding the "|" between commands allows the command to pipe the output of the previous command into another command. 
