@@ -55,6 +55,6 @@
 
 ##### 3.14
 1. Command Pipelines
-2. [[tee command]] --> The tee command allows for the output of the command to be passed on as the input of another command while simultaneously being passed into a text file. 
+2. [[tee command]] --> The tee command allows for the output of the command to be passed on as the input of another command while simultaneously being passed into a text file. It essentially takes a snapshot of the data at that point in the pipeline. Once you've done redirection, you can no longer use piping.
 3. [[xarg command]]
 4. Adding the "|" between commands allows the command to pipe the output of the previous command into another command. 
