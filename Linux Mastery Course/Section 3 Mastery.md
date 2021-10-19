@@ -56,5 +56,11 @@
 ##### 3.14
 1. Command Pipelines
 2. [[tee command]] --> The tee command allows for the output of the command to be passed on as the input of another command while simultaneously being passed into a text file. It essentially takes a snapshot of the data at that point in the pipeline. Once you've done redirection, you can no longer use piping.
-3. [[xarg command]]
+3. [[xarg command]] --> The xarg command allows you to convert pipeline data into command lines for commands that only accept command line arguments. 
 4. Adding the "|" between commands allows the command to pipe the output of the previous command into another command. 
+5. STDOUT --> Standard Output
+6. STDIN --> Standard Input
+7. Redirection of STDOUT breaks pipelines. 
+8. To save a data "snapshot" without breaking pipelines, use the tee command.
+9. If a command doesn't accept STDIN, but you want to pipe it, use xargs command.
+10. Commands you ues with xargs can still have their own arguments.
