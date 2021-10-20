@@ -12,6 +12,8 @@
 8. CSS Text Properties:
 	--> text-align: aligns the text to the left/center/right of the page.
 	--> font-weight: sets the weight or boldness of the the font.
-	--> text-decoration
-	--> line-height
-	--> letter-spacing
+	--> text-decoration:  sets the appearance of decorative lines on text.
+	--> line-height: space between the lines
+	--> letter-spacing: space between letters
+	-->font-size: pixels arethe most commonly used absolute units. Not recommended for responsive websites.
+	-->font-family: specifies a prioritized list of one or more font family names and/or generic family names for the selected element. 
