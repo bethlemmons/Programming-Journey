@@ -6,4 +6,5 @@
 6. "not" --> a keyword that verifies that the list does not contain a specific value. 
 7. "if-else" statements --> allow you to evaluate a condition to something other than just a boolean. Is good for situations that evaluate to an either/or solution.
 8. "if-elif-else" statements --> This allows for more than two possible solutions but will stop running if one of the conditions is met before running through the other conditions. 
-9. You can create your own alias's for commands. This allows you to essentially shorthand common commands that you use in Linux. Need to use a "." to title the file in order for it to be hidden. EXAMPLE: INSERT INTO o
+9. You can create your own alias's for commands. This allows you to essentially shorthand common commands that you use in Linux. Need to use a ".bash_aliases" to title the file in order for it to be hidden. EXAMPLE: alias aliasName="command1 -options args | command2 -options args ..."
+
