@@ -39,3 +39,6 @@
 14. The CSS Cascade: The order that styles are declared in does matter. The last called style is the one that will win. 
 15. Specificity is how the browser decides which rules to apply when multiple rules could apply to the same element. It is a measure of how specific a given selector is. The more specific selector "wins". ID > CLASS > ELEMENT
 16. CSS Dev tools in Chrome. Inspect. Bottom half allows you to dive deeper into the code and even shows you elements that aren't being utilized and why. 
+17. Inline styles --> More specific that ID selectors. But people don't use them often. Generally avoid them because they are confusing.
+18. !Important rules-->generally not recommended. When you assign some style as !important, it signals to the browser that it is the most important/specific thing. 
+19. CSS Inheritance --> Some CSS properties are inherited by children if they aren't explicitly set to something else. The "child" properities will always inherit the properities of whatever parent element is closest. 

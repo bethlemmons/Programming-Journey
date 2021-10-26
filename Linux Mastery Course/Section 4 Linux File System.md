@@ -1,0 +1,2 @@
+1. The linux file system follows a tree structure. The root directory/folder is the foundation of every other directory. 
+2. The home directory is one of the most important directories that are descendants of the root directory. 
