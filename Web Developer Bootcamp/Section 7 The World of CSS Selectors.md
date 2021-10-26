@@ -30,3 +30,9 @@
 					  -->:not()
 					  -->:nth-child()
 					  -->:nth-of-type()
+13. Pseudo Elements are keywords added to a selector that lets you style a particular part of a selected element:
+	-->::after
+	-->::before
+	-->::first-letter
+	-->::first-line
+	-->::selection
