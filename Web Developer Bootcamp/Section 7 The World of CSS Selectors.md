@@ -36,3 +36,6 @@
 	-->::first-letter
 	-->::first-line
 	-->::selection
+14. The CSS Cascade: The order that styles are declared in does matter. The last called style is the one that will win. 
+15. Specificity is how the browser decides which rules to apply when multiple rules could apply to the same element. It is a measure of how specific a given selector is. The more specific selector "wins". ID > CLASS > ELEMENT
+16. CSS Dev tools in Chrome. Inspect. Bottom half allows you to dive deeper into the code and even shows you elements that aren't being utilized and why. 
