@@ -1,4 +1,4 @@
-1. CSS [[Selectors]]
+di1. CSS [[Selectors]]
 2. The [[universal selector]] "* " selects all of something. Example: * { background-color: cyan; }. Not commonly used.
 3. The [[element selector]] selects everything of a given type. Example: button { font-size: 30px}.
 4. The [[selector list]] allows you to use a comma to combine multiple selectors in a list. Example: h1, h2 {color: magenta;}
