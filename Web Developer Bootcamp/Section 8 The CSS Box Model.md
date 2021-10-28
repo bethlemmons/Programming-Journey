@@ -19,7 +19,7 @@
 	-->Block: Block elements break the flow of a document. Width, Height, Margin, & Padding are respected. 
 	-->Inline-Block: Behaves like an inline element execpt Width, Height, Margin, & Padding are respected. 
 6. CSS Units:
-	-->EM
+	-->EM: Relative units. 1em = font-size of the parent. 2em = twice the font-size of the parent.
 	-->REM
 	-->VH
 	-->VW
