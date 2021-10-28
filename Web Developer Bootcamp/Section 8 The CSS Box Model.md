@@ -19,8 +19,8 @@
 	-->Block: Block elements break the flow of a document. Width, Height, Margin, & Padding are respected. 
 	-->Inline-Block: Behaves like an inline element execpt Width, Height, Margin, & Padding are respected. 
 6. CSS Units:
-	-->EM: Relative units. 1em = font-size of the parent. 2em = twice the font-size of the parent.
-	-->REM
+	-->EM: Relative units. 1em = font-size of the parent. 2em = twice the font-size of the parent. Allows you to scale easily. However, they stack and can grow and shrink significantly
+	-->REM: Relative to the root html element's font-size. Often easier to work with. Example: if root font-size= 20px, 1 rem is always 20px, 2 rem is always 40 px, etc. 
 	-->VH
 	-->VW
 	-->%: Percentages are always relative to some other value. (Example: width: 50% - half the width of the parent)

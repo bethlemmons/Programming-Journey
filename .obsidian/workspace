@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Developer Bootcamp/Section 8 The CSS Box Model.md",
+            "file": "Web Developer Bootcamp/Section 9 Other Assorted Useful CSS Properties.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Developer Bootcamp/Section 8 The CSS Box Model.md",
+                "file": "Web Developer Bootcamp/Section 9 Other Assorted Useful CSS Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,10 @@
   },
   "active": "77b4ff32e536f489",
   "lastOpenFiles": [
+    "Web Developer Bootcamp/Section 9 Other Assorted Useful CSS Properties.md",
     "Web Developer Bootcamp/Section 8 The CSS Box Model.md",
     "Python Crash Course/Chapter 6 Dictionaries.md",
     "Web Developer Bootcamp/Section 7 The World of CSS Selectors.md",
-    "Web Developer Bootcamp/Untitled.md",
     "Python Crash Course/Untitled.md",
     "Linux Mastery Course/Untitled.md",
     "Python Crash Course/Chapter 5.md",
