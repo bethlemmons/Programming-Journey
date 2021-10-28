@@ -8,3 +8,13 @@
 		-->Border-Width
 		-->Border-Color
 		-->Border-Style
+4. [Padding] is the space between the content and the content box and the border of the box. You can set top/bottom & left/right simultaneously by setting padding: 10px 20px; top - right - bottom - left
+	-->Individual properties: padding-left, padding-right, padding-bottom, padding-top
+	-->Shorthand property: set all four sides at once.
+5. [Margin] is the space outside of an element's border between that element and another element. Margin is similar to padding with the same settings. 
+	-->Individual properties: margin-left, margin-right, margin-bottom, margin-top
+	-->Shorthand properties: set all four sides simultaneously.
+6. [Display Property]
+	-->Inline: Width & Height are ignored. Margin & padding push elements away horizontally but not vertically.
+	-->Block: Block elements break the flow of a document. Width, Height, Margin, & Padding are respected. 
+	-->Inline-Block: Behaves like an inline element execpt Width, Height, Margin, & Padding are respected. 
