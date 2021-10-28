@@ -18,3 +18,9 @@
 	-->Inline: Width & Height are ignored. Margin & padding push elements away horizontally but not vertically.
 	-->Block: Block elements break the flow of a document. Width, Height, Margin, & Padding are respected. 
 	-->Inline-Block: Behaves like an inline element execpt Width, Height, Margin, & Padding are respected. 
+6. CSS Units:
+	-->EM
+	-->REM
+	-->VH
+	-->VW
+	-->%: Percentages are always relative to some other value. (Example: width: 50% - half the width of the parent)
