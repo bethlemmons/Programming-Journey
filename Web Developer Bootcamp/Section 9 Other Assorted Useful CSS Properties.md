@@ -1,1 +1,1 @@
-1. 
+1. Opacity + Alpha Channel
