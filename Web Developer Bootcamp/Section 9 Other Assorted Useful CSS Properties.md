@@ -11,4 +11,6 @@
 			-->Duration: The length of time designated for a transition.
 			-->Timing Function:
 			-->Delay: 
-			
+	5. Transform --> 
+			-->Rotate: Angles, gradient, radians, turns. 
+			-->Scale: Changes the size of the element. 
