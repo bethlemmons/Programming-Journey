@@ -11,6 +11,8 @@
 			-->Duration: The length of time designated for a transition.
 			-->Timing Function:
 			-->Delay: 
-	5. Transform --> 
+	5. Transform --> Allows you to move elements in particular ways. Can do this all in one line. Example: transform: rotate(20deg) scale(1.3);
 			-->Rotate: Angles, gradient, radians, turns. 
-			-->Scale: Changes the size of the element. 
+			-->Scale: Changes the size of the element.
+			-->Translate: Allows you to move the element up/down/sideways.
+			-->Skew: Allows you to move an element at an angle.
