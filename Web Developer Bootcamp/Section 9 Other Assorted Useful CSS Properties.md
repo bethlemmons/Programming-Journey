@@ -7,3 +7,8 @@
 		-->absolute: removes the element from the normal document flow and no space is created for the element in the page layout. It is positioned relative to its closest positioned ancestor.
 		-->sticky: allows an element to stay in-line until scrolling starts and then it will keep it at the top of the block. 
 	4. Transitions -->allow us to animate the transition of one property to another property.
+			-->Property name: You can use a specific property name to identify the aspect you want to adjust.
+			-->Duration: The length of time designated for a transition.
+			-->Timing Function:
+			-->Delay: 
+			
