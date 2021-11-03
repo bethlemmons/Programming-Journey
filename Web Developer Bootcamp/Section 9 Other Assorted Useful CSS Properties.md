@@ -6,3 +6,4 @@
 		-->fixed: removes element from normal document flow and no space is created for the element in the page layout. It is positioned relative to the initial containing block established by the viewport. 
 		-->absolute: removes the element from the normal document flow and no space is created for the element in the page layout. It is positioned relative to its closest positioned ancestor.
 		-->sticky: allows an element to stay in-line until scrolling starts and then it will keep it at the top of the block. 
+	4. Transitions -->allow us to animate the transition of one property to another property.
