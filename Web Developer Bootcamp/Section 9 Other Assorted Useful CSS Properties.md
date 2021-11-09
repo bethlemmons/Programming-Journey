@@ -25,3 +25,4 @@
 					>auto --> scales the image in the corresponding direction so that that its intrinsic proportions are maintained.
 					><length>
 					><percentage>
+	8. Google Fonts --> 
