@@ -2,5 +2,6 @@
 2. [Flexbox Properties]
  	-->Display
 	-->Flex-direction: column, row, column-reverse, row-reverse. Row goes left-to-right and is the default setting. It can be changed with the other settings.
+	-->Justify-Content: the default is flex-start. 
 	
 3. In the [Flex Model] there are two axis: main and cross. Main axis goes left to right. Cross 
