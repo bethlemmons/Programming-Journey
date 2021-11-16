@@ -13,3 +13,4 @@
 9. [flex-shrink] if an element is larger than a container, they shrink according to flex-shrink. 
 10. [Responsive Design] the ability to create ONE website that responds to different device sizes and features.
 11. [Media Queries] allow us to modify our styles depending on particular parameters like screen width or device type. 
+12. [viewport] represents a polygonal area in computer graphics that is currently being viewed.
