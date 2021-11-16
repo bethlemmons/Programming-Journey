@@ -11,3 +11,5 @@
 7. [Flex-basis] defines the initial space of an element before additional space is distributed.
 8. [Flex-grow] controls the amount of space available that an element should take up. Accepts a unit-less number value. 
 9. [flex-shrink] if an element is larger than a container, they shrink according to flex-shrink. 
+10. [Responsive Design] the ability to create ONE website that responds to different device sizes and features.
+11. [Media Queries] allow us to modify our styles depending on particular parameters like screen width or device type. 
