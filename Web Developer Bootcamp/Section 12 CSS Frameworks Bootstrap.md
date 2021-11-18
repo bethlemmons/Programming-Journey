@@ -3,3 +3,6 @@
 3. You also need to add JS links at the bottom of the body. 
 4. [Containers] are the most basic layout element in Bootstrap and are required when using Bootstrap's default grid system. Containers are used to contain, pad, and center the content within them. 
 		--> The default .container class is a responsive, fixed-width container, meaning its max-width changes at each breakpoint. 
+5. [Buttons]
+		--> You can make an anchor tag for a link look like a button.
+		-->Outline buttons 
