@@ -10,3 +10,8 @@
 		-->Display classes are used to make headers. Not responsive by default but that can be changed. 
 		-->Blockquotes
 		-->Alignment
+7. [Utilities]
+		-->Borders
+		-->Colors
+8. [Badge Component]
+		-->You can add numbers for updates to this. 
