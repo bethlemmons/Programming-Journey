@@ -6,3 +6,7 @@
 5. [Buttons]
 		--> You can make an anchor tag for a link look like a button.
 		-->Outline buttons 
+6. [Typography] (not found under bootstrap component documentation)
+		-->Display classes are used to make headers. Not responsive by default but that can be changed. 
+		-->Blockquotes
+		-->Alignment
