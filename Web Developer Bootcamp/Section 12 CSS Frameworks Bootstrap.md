@@ -15,3 +15,5 @@
 		-->Colors
 8. [Badge Component]
 		-->You can add numbers for updates to this. 
+9. [Alerts]
+		-->They are dismissable
