@@ -17,4 +17,4 @@
 		-->You can add numbers for updates to this. 
 9. [Alerts]
 		-->They are dismissable
-10. [Grid System] --> Helps with the layouts and resizing. It only works inside a container class. Must create row with the class of row. 
+10. [Grid System] --> Helps with responsive layouts and resizing. It only works inside a container class. Must create row with the class of row. 
