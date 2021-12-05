@@ -17,4 +17,7 @@
 		-->You can add numbers for updates to this. 
 9. [Alerts]
 		-->They are dismissable
-10. [Grid System] --> Helps with responsive layouts and resizing. It only works inside a container class. Must create row with the class of row. 
+10. [Grid System] --> Helps with responsive layouts and resizing. It only works inside a container class. Must create row with the class of row. There are different breakpoints/sizes that have already been predefined in bootstrap. 
+	--> Responsive images: the class="img-fluid" creates images that are responsive to size. It scales with the parent element. 
+11. [Helper Classes used in Bootstrap]
+	-->align-items-end: sets all the items in that class to align at the bottom or end of the longest item. Can use start/center/end. 
