@@ -6,3 +6,4 @@
 		-->ls -F: Gives all the current files/folders
 		-->ls -l: Gives the long form of all current folders/files
 		-->ls -lh: Gives the long form but with human readability
+4. When ls -F is called, the listed names that end in "/" are folders and the ones that don't are files. 
