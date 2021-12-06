@@ -24,3 +24,5 @@
 12. [Bootstrap Forms]
 		--> class="form-control": can use this for email input, passwords, lists, checkbox, switches, select menus, range input. 
 13. You can use the grid system with bootstrap forms to better group everything. 
+14. [bootstrap navbar] provides support for a responsive navigation header, branding, navigation and more. 
+	-->navbar brand: 
