@@ -26,3 +26,7 @@
 13. You can use the grid system with bootstrap forms to better group everything. 
 14. [bootstrap navbar] provides support for a responsive navigation header, branding, navigation and more. 
 	-->navbar brand: 
+	-->collapse: allows you to collapse something. But must add an expand as well. 
+	-->toggler: allows you to connect links into a "burger" shape when you shrink the page. Need to connect it to "data-target" so that it knows where to connect to. 
+	-->margin-left-auto: sets the margin to the far left.
+	-->You can fix a navbar to the top of the page. Sticky. Bottom. Etc. 
