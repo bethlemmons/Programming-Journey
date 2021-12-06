@@ -22,4 +22,5 @@
 11. [Helper Classes used in Bootstrap]
 	-->align-items-end: sets all the items in that class to align at the bottom or end of the longest item. Can use start/center/end. 
 12. [Bootstrap Forms]
-		--> class="form-control"
+		--> class="form-control": can use this for email input, passwords, lists, checkbox, switches, select menus, range input. 
+13. You can use the grid system with bootstrap forms to better group everything. 
