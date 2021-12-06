@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Mastery Course/Section 4 Linux File System.md",
+            "file": "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f3775f8e4e8f3668",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Mastery Course/Section 4 Linux File System.md",
+                "file": "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +96,8 @@
   },
   "active": "77b4ff32e536f489",
   "lastOpenFiles": [
-    "Linux Mastery Course/Section 4 Linux File System.md",
     "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md",
+    "Linux Mastery Course/Section 4 Linux File System.md",
     "Web Developer Bootcamp/Section 10 Responsive CSS & Flexbox.md",
     "Web Developer Bootcamp/Section 9 Other Assorted Useful CSS Properties.md",
     "Web Developer Bootcamp/Section 8 The CSS Box Model.md",
