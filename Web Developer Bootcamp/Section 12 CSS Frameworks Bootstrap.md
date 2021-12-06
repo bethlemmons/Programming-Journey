@@ -21,3 +21,5 @@
 	--> Responsive images: the class="img-fluid" creates images that are responsive to size. It scales with the parent element. 
 11. [Helper Classes used in Bootstrap]
 	-->align-items-end: sets all the items in that class to align at the bottom or end of the longest item. Can use start/center/end. 
+12. [Bootstrap Forms]
+		--> class="form-control"
