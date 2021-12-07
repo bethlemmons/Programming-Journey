@@ -37,3 +37,10 @@
 		-->p - for classes that set padding
 18. [Display properties]
 	-->Display-none. Can do for different size screens. 
+19. [Bootstrap stuff]
+		-->cards (Good for website)
+		-->Carousel (Good for website)
+		-->Dropdown menus
+		-->spinners
+		-->modals: pop-up dialogues
+		
