@@ -32,3 +32,8 @@
 	-->You can fix a navbar to the top of the page. Sticky. Bottom. Etc.
 15. [bootstrap icons] still in beta phase but a bunch of free icons available on bootstrap.
 16. [font awesome ] is a website has a ton of icons but some are not free.
+17. [Bootstrap borders] are an easy way to quickly implement a variety of borders to a html document. 
+		-->m -  for classes that set margin
+		-->p - for classes that set padding
+18. [Display properties]
+	-->Display-none. Can do for different size screens. 
