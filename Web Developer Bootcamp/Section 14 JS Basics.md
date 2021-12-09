@@ -11,3 +11,9 @@
 	--> var: the old variable keyword works similarly to let. should use let exclusively
 3. [Booleans] : true or false
 4. Variables can change types. Can move a number variable to a boolean. 
+5. Variable naming rules and conventions for JS:
+		-->no spaces
+		-->can use numbers but can't start with a digit
+		-->case sensitive
+		-->most common to use camel casing
+		-->use descriptive names
