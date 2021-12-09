@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Developer Bootcamp/Section 14 JS Basics.md",
+            "file": "Web Developer Bootcamp/Section 15 Javascript Strings and More.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Developer Bootcamp/Section 14 JS Basics.md",
+                "file": "Web Developer Bootcamp/Section 15 Javascript Strings and More.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "77b4ff32e536f489",
   "lastOpenFiles": [
+    "Web Developer Bootcamp/Section 15 Javascript Strings and More.md",
     "Web Developer Bootcamp/Section 14 JS Basics.md",
     "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md",
     "Linux Mastery Course/Section 4 Linux File System.md",
@@ -104,7 +105,6 @@
     "Web Developer Bootcamp/Section 8 The CSS Box Model.md",
     "Python Crash Course/Chapter 6 Dictionaries.md",
     "Web Developer Bootcamp/Section 7 The World of CSS Selectors.md",
-    "Python Crash Course/Untitled.md",
-    "Linux Mastery Course/Untitled.md"
+    "Python Crash Course/Untitled.md"
   ]
 }
