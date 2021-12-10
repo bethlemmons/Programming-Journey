@@ -12,4 +12,11 @@
 	-->indexOf is an argument that tells you where ther first occurance of a specific example it. Usually used to see if string contains a specific something such as $, %, etc. 
 	-->str.slice()
 	-->str.replace(replace, replacement)
-6
+6. [Template Literals] are sthrings that allow embedded expressions, which are evaluated and then turned into a resulting string. 
+	--> MUST use back-tick characters, not single brackets. Found above the tab key.
+	--> ex: `I counted ${3 + 4} sheep`;
+	--> The expression within the dollar sign and back-ticks will be evaluated. It allows you to directly imbed variables inside a string. 
+7. [Null & Undefined]
+	-->Null: Intentional absence of any value. Must be assigned.
+	-->Undefined: Variables that do not have an assigned value are undefined.
+8. [Math Object] Containers properties and methods for mathematical constants and functions. 
