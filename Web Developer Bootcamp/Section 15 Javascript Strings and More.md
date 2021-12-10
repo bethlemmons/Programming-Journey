@@ -7,4 +7,9 @@
 	-->thing.method(): is accessing a method.
 	--> [Trim] : method used for trimming white space in a string. 
 	-->You can combine multiple methods simultaneously. They can be chained together. 
-	
+6. Many [methods] accept [arguments] to be passed into the method.
+	-->thing.method(arg)
+	-->indexOf is an argument that tells you where ther first occurance of a specific example it. Usually used to see if string contains a specific something such as $, %, etc. 
+	-->str.slice()
+	-->str.replace(replace, replacement)
+6
