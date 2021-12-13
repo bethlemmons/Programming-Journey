@@ -20,3 +20,5 @@
 	-->Null: Intentional absence of any value. Must be assigned.
 	-->Undefined: Variables that do not have an assigned value are undefined.
 8. [Math Object] Containers properties and methods for mathematical constants and functions. 
+9. [Random Numbers] math.random() is a method that gives us a random decimal between 0 and 1 (non-inclusive). 
+	-->Math.floor(Math.random() * 5) +1 
