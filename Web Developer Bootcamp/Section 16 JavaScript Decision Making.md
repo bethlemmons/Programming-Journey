@@ -13,3 +13,5 @@
 6.  [alert] is a method that prints something out to the user. 
 7.  [prompt] is a method that accepts an argument. The user input is usually saved to a variable. 
 8.  [Conditionals]
+	--> [if statement] only runs the code if the given condition is true
+	-->
