@@ -12,3 +12,4 @@
 5.  [console.log()] prints arguments to the console. In other languages it is "print".
 6.  [alert] is a method that prints something out to the user. 
 7.  [prompt] is a method that accepts an argument. The user input is usually saved to a variable. 
+8.  [Conditionals]
