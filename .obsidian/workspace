@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
+            "file": "Python Crash Course/Chapter 8 Functions.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
+                "file": "Python Crash Course/Chapter 8 Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,8 @@
   },
   "active": "77b4ff32e536f489",
   "lastOpenFiles": [
+    "Python Crash Course/Chapter 8 Functions.md",
+    "Python Crash Course/Chapter 1.md",
     "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
     "Web Developer Bootcamp/Section 15 Javascript Strings and More.md",
     "Web Developer Bootcamp/Section 14 JS Basics.md",
@@ -103,8 +105,6 @@
     "Linux Mastery Course/Section 4 Linux File System.md",
     "Web Developer Bootcamp/Section 10 Responsive CSS & Flexbox.md",
     "Web Developer Bootcamp/Section 9 Other Assorted Useful CSS Properties.md",
-    "Web Developer Bootcamp/Section 8 The CSS Box Model.md",
-    "Python Crash Course/Chapter 6 Dictionaries.md",
-    "Web Developer Bootcamp/Section 7 The World of CSS Selectors.md"
+    "Web Developer Bootcamp/Section 8 The CSS Box Model.md"
   ]
 }

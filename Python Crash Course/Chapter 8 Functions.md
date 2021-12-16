@@ -1,0 +1,1 @@
+1. Every function should have one specific job. 
