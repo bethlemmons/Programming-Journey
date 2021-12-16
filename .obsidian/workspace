@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Crash Course/Chapter 8 Functions.md",
+            "file": "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Crash Course/Chapter 8 Functions.md",
+                "file": "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +96,9 @@
   },
   "active": "77b4ff32e536f489",
   "lastOpenFiles": [
+    "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
     "Python Crash Course/Chapter 8 Functions.md",
     "Python Crash Course/Chapter 1.md",
-    "Web Developer Bootcamp/Section 16 JavaScript Decision Making.md",
     "Web Developer Bootcamp/Section 15 Javascript Strings and More.md",
     "Web Developer Bootcamp/Section 14 JS Basics.md",
     "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md",

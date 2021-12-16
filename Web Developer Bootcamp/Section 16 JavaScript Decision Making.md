@@ -14,4 +14,6 @@
 7.  [prompt] is a method that accepts an argument. The user input is usually saved to a variable. 
 8.  [Conditionals]
 	--> [if statement] only runs the code if the given condition is true
-	-->[else if] if not the first thing, maybe this other thing. You can have as many else-if statements as needed. 
+	-->[else if] if not the first thing, maybe this other thing. You can have as many else-if statements as needed. Sequential. 
+	-->[else] if nothing else was true, do this. 
+	
