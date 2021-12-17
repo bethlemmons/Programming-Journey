@@ -16,4 +16,16 @@
 	--> [if statement] only runs the code if the given condition is true
 	-->[else if] if not the first thing, maybe this other thing. You can have as many else-if statements as needed. Sequential. 
 	-->[else] if nothing else was true, do this. 
-	
+9. [Nesting] You can nest conditionals inside of other conditionals. 
+10. [Falsy Values]
+	-->false
+	-->0
+	-->"" (empty string)
+	-->null
+	-->undefined
+	-->NaN
+11. [Logical Operators] combining expressions.
+	--> && : And 
+	--> || : Or
+	--> ! : Not
+12. [&&] This is logical AND and means that both sides must be true for the entire thing to be true. 
