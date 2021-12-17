@@ -29,3 +29,4 @@
 	--> || : Or
 	--> ! : Not
 12. [&&] This is logical AND and means that both sides must be true for the entire thing to be true. 
+13. [||] OR: if one side is true, the entire thing is true. 
