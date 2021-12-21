@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "77b4ff32e536f489",
+        "id": "0cca2cf2804620d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -94,7 +94,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77b4ff32e536f489",
+  "active": "0cca2cf2804620d5",
   "lastOpenFiles": [
     "Python Crash Course/Chapter 9 Classes.md",
     "Python Crash Course/Chapter 8 Functions.md",
