@@ -11,3 +11,8 @@
 6. [a command] --> This command allows you to see all the files in a directory, even the hidden files. 
 7. [tab completion] --> easily use tab to complete the command. 
 8. Linux doesn't determine file type using file extension. 
+9. [Wildcards] are used to build patterns called "regular expressions".
+ 	--> [ls * ] to call anything/everything ending or beginning with specific letters. 
+	-->[ls ?] allows you to limit the length of a query
+	-->ls file[] anything that you specifically want to call in the square brackets. Allows you to be more specific in your calls. Can do [][][] for each specific thing you are calling. 
+	
