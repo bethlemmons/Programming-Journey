@@ -10,3 +10,4 @@
 5. [cd command] --> This command means change directory. Can use "~" to get home directory. Can use this to quickly change locations in the directory. 
 6. [a command] --> This command allows you to see all the files in a directory, even the hidden files. 
 7. [tab completion] --> easily use tab to complete the command. 
+8. Linux doesn't determine file type using file extension. 

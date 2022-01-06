@@ -12,7 +12,7 @@
 	-->includes - look for a value
 	-->indexOf - just like string.indexOf
 	-->join - creates a string from an array
-	-->reverse - reverses an array
+	-->reverse - reverses an array (it does change the original)
 	-->slice - copies a portion on an array
 	-->splice - removes/replaces elements
 	-->sort - sorts and array

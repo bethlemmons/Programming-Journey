@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
+            "file": "Linux Mastery Course/Section 4 Linux File System.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
+                "file": "Linux Mastery Course/Section 4 Linux File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "0cca2cf2804620d5",
   "lastOpenFiles": [
+    "Linux Mastery Course/Section 4 Linux File System.md",
     "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
     "Python Crash Course/Chapter 9 Classes.md",
     "Python Crash Course/Chapter 2.md",
@@ -104,7 +105,6 @@
     "Python Crash Course/Chapter 1.md",
     "Web Developer Bootcamp/Section 15 Javascript Strings and More.md",
     "Web Developer Bootcamp/Section 14 JS Basics.md",
-    "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md",
-    "Linux Mastery Course/Section 4 Linux File System.md"
+    "Web Developer Bootcamp/Section 12 CSS Frameworks Bootstrap.md"
   ]
 }
