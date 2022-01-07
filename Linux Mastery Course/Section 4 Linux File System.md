@@ -15,4 +15,5 @@
  	--> [ls * ] to call anything/everything ending or beginning with specific letters. 
 	-->[ls ?] allows you to limit the length of a query
 	-->ls file[] anything that you specifically want to call in the square brackets. Allows you to be more specific in your calls. Can do [][][] for each specific thing you are calling. 
+10. 
 	
