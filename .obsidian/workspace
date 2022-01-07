@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python Crash Course/Chapter 10 Files & Exceptions.md",
+            "file": "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Crash Course/Chapter 10 Files & Exceptions.md",
+                "file": "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +96,9 @@
   },
   "active": "0cca2cf2804620d5",
   "lastOpenFiles": [
+    "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
     "Python Crash Course/Chapter 10 Files & Exceptions.md",
     "Linux Mastery Course/Section 4 Linux File System.md",
-    "Web Developer Bootcamp/Section 17 JavaScript Arrays.md",
     "Python Crash Course/Chapter 9 Classes.md",
     "Python Crash Course/Chapter 2.md",
     "Python Crash Course/Chapter 8 Functions.md",

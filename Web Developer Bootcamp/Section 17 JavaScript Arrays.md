@@ -16,5 +16,5 @@
 	-->slice - copies a portion on an array
 	-->splice - removes/replaces elements
 	-->sort - sorts and array
-	
-	
+7. Arrays do not have a limited memory per se. What arrays store is a "reference" in memory. Therefore it does not care about the content of the array. The memory used is referring to the array itself. Not the contents of the array. 
+8. [const] variables are commonly used with arrays because the reference to array doesn't change but the contents of the array could be changed. 
